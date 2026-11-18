@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+joblib
+torch
+transformers
+sentencepiece
+accelerate
+nltk
+openpyxl
